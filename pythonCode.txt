@@ -1,0 +1,19 @@
+#PYTHON using Codeskulptor
+#Coursera course Summer 2013
+#Asteroid
+http://www.codeskulptor.org/#user16_4TYMDiShIF17V7D_1.py
+#BlackJack
+http://www.codeskulptor.org/#user15_mDl0k0ipiA_16.py
+#Memory
+http://www.codeskulptor.org/#user14_qxVaHcii8F_13.py
+#PONG
+http://www.codeskulptor.org/#user13_InBTcga1gpuCEGJ_0.py
+#Messing around with controls and lists
+http://www.codeskulptor.org/#user17_5lBWtHOAo2_4.py
+#Timer
+http://www.codeskulptor.org/#user17_ppM1VgErsL_8.py
+# Guess the number
+http://www.codeskulptor.org/#user11_3AyNIK6t7u_6.py
+http://www.codeskulptor.org/#user17_3AyNIK6t7u_7.py  #testing uses classes
+# Rock-paper-scissors-lizard-Spock
+http://www.codeskulptor.org/#user10_3yaYojAgVc_2.py
